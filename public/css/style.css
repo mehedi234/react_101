@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: "dejavu-serif";
+}
+header {
+  background: #008080;
+  text-align: center;
+}
+.logo {
+  color: #fff;
+  font-size: 55px;
+  letter-spacing: 1.6px;
+}
+header input {
+  font-size: 21px;
+  margin: 13px 0px;
+}
